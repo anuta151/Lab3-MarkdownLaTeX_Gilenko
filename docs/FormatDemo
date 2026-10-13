@@ -1,0 +1,21 @@
+using System;
+class FormatDemo
+{
+    static void Main()
+    {
+        // **Запрашиваем два числа**
+        Console.Write("Введите первое число: ");
+        double number1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Введите второе число: ");
+        double number2 = Convert.ToDouble(Console.ReadLine());
+
+        // *Складываем*
+        double sum = number1 + number2;
+
+        // `Выводим результат`
+        Console.WriteLine($"**Результаты операций: {sum}**");
+
+        // ~~Проверка завершена~~
+    }
+}
