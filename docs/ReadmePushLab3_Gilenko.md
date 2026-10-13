@@ -1,0 +1,6 @@
+- Enumerating objects — Git определяет, какие объекты отправлять.
+- Counting objects — подсчёт и сжатие.
+- Writing objects — отправка данных (242 байта).
+- Total 3 — всего 3 объекта (коммит + 2).
+- new branch master -> master — создана ветка master на сервере.
+- branch 'master' set up to track 'origin/master' — локальная ветка отслеживает удалённую.
